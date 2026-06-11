@@ -144,7 +144,7 @@ Uses neighboring word tags to infer the most likely POS category.
 
 Identifies unknown capitalized words as proper nouns.
 
-```## 📸 Application Preview
+## 📸 Application Preview
 
 ### Home Screen
 
@@ -190,13 +190,3 @@ Passionate about NLP, Machine Learning, and Software Development.
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-
-## 📸 Application Preview
-
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### POS Tagging Output
-
-![Output Screen](screenshots/output.png)
