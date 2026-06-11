@@ -1,0 +1,9 @@
+[
+  { "prev_tag": "DET", "assign": "NOUN" },
+  { "prev_tag": "PRON", "assign": "VERB" },
+  { "prev_tag": "ADV", "assign": "VERB" },
+  { "prev_tag": "ADJ", "assign": "NOUN" },
+  { "prev_tag": "PREP", "assign": "NOUN" },
+  { "next_tag": "NOUN", "assign": "ADJ" },
+  { "next_tag": "VERB", "assign": "ADV" }
+]
