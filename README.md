@@ -144,17 +144,15 @@ Uses neighboring word tags to infer the most likely POS category.
 
 Identifies unknown capitalized words as proper nouns.
 
----
+```## 📸 Application Preview
 
-## 📸 Application Preview
+### Home Screen
 
-Add screenshots here:
+![Home Screen](Screenshots/home.png)
 
-```markdown
-![Home Screen](screenshots/home.png)
+### POS Tagging Output
 
-![Output Screen](screenshots/output.png)
-```
+![Output Screen](Screenshots/output.png)
 
 ---
 
